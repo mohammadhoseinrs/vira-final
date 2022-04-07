@@ -1,0 +1,13 @@
+.md .slick-list .slick-track .slick-slide{
+    background-color: red;
+    width: 1300px !important;
+}
+
+.md1 .slick-slider{
+    background-color: red;
+}
+.div1{
+    width: 400px !important;
+    height: 100px;
+    background-color: green;
+}
